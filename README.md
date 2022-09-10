@@ -23,7 +23,7 @@
 
 
 ## :man_technologist: About Me :
-I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Student and Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
