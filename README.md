@@ -1,17 +1,5 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47ubf213t4qfj1szp540fc60x2b8a1n9bq2njyqh67&rid=giphy.gif&ct=s" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/idris-cahyadi-848aa3227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br7QPs%2FYjRe232QU48yJMQw%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=starscode-id&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -49,3 +37,27 @@ I am a Student and Front end Developer <img src="https://media.giphy.com/media/W
 
 
 ## :fire: My Stats :
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=starscode-id&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="center" /></div>  
+
+<br/>  
+<div align="center">
+<a href="https://github.com/starscode-id" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Starscode_id" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/starscodeid" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/idris cahyadi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/idriscahyadi17" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=starscode-id&&style=flat-square" align="center" />
+</div>
