@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47ubf213t4qfj1szp540fc60x2b8a1n9bq2njyqh67&rid=giphy.gif&ct=s" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/idris-cahyadi-848aa3227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br7QPs%2FYjRe232QU48yJMQw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -24,13 +24,13 @@
 
 ## :man_technologist: About Me :
 I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-idris-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/idris-cahyadi-848aa3227)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-idris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/idris-cahyadi-848aa3227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br7QPs%2FYjRe232QU48yJMQw%3D%3D)
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -49,4 +49,3 @@ I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 ## :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=starscode-id
